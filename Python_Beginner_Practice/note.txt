@@ -6,3 +6,10 @@ Qua các bài tập, Dũng đã nắm được các kiến thức sau của Pyth
 +) Cách import 1 thư viện
 +) Nắm được OOP Cơ bản về tính trừu tượng (Cách tạo các lớp, thuộc tính và phương thức), tính kế thừa (Cách tạo ra các lớp con kế thừa bằng super().), Tính đóng gói (Property với getter và setter)
 , Tính đa hình (ghi đè trên lớp con)
+
+====
+Bây giờ, Dũng sẽ chuyển qua nâng cao hơn 1 tý với Flask và Django. Trước đó, phần Beginner Dũng còn 1 vài lỗ hổng kiến thức như:
++) Xử lý lỗi (Exception Handling): Try, Exept, Finally, Raise, Custom Exception
++) Làm việc với File (File I/O): Cần học cách đọc/ghi dữ liệu ra file .txt, .csv hoặc .json. Từ khóa: open(), with open(...) as, thư viện json.
++) Magic Methods (Dunder Methods): __str__ (để in object ra đẹp hơn), __len__ (để dùng hàm len() cho object), __eq__ (để so sánh 2 object).
++) Class Method & Static Method: Phân biệt khi nào dùng @classmethod, khi nào dùng @static method và khi nào dùng method thường (self).
