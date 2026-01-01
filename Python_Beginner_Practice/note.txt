@@ -1,0 +1,8 @@
+Qua các bài tập, Dũng đã nắm được các kiến thức sau của Python:
++) Các kiểu dữ liệu, cách khai báo
++) Cách in dữ liệu, nhập dữ liệu
++) Cách ép kiểu dữ liệu
++) Vòng lặp for, while. Switch Case (Match). Datatypes đặc biệt như Dict, list, Boolean. If, else xử lý điều kiện
++) Cách import 1 thư viện
++) Nắm được OOP Cơ bản về tính trừu tượng (Cách tạo các lớp, thuộc tính và phương thức), tính kế thừa (Cách tạo ra các lớp con kế thừa bằng super().), Tính đóng gói (Property với getter và setter)
+, Tính đa hình (ghi đè trên lớp con)
